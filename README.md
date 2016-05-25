@@ -12,7 +12,7 @@
 ![](https://github.com/Wangzhengwhu/homework-11/blob/master/%E5%85%AC%E5%BC%8F3.png)  
 其中，l为  
 ![](https://github.com/Wangzhengwhu/homework-11/blob/master/%E5%85%AC%E5%BC%8F4.png)  
-e是轨道的离心率，如果0<e<1,为椭圆轨道，e=1为抛物线，e>1为双曲轨迹，这方程的前提条件是万有引力大小严格的与距离的平方成反比，如果有微小的偏差，那么轨迹讲不满足以上的圆锥曲线，一般来讲不会闭合。  
+e是轨道的离心率，如果e小于1,为椭圆轨道，e为1为抛物线轨道，e大于1为双曲轨迹，这方程的前提条件是万有引力大小严格的与距离的平方成反比，如果有微小的偏差，那么轨迹讲不满足以上的圆锥曲线，一般来讲不会闭合。  
 ###双星问题
 双星系统课通过前面的操作变可为单星系统，接下来我们来给出双星系统的运动轨迹   
 [程序](https://github.com/Wangzhengwhu/homework-11/blob/master/1.py)  
